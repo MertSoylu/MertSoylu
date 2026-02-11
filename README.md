@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛡️ Siber güvenlik meraklısı | Yeni başlayan ama açgözlü | Hack dünyasına adım atıyorum<br>💻 Kod + güvenlik tutkunu | Öğrenmeye aç | Geleceğin siber şövalyesi<br>🔐 Cybersec newbie | Her gün bir şey öğreniyorum
+🛡️ Siber güvenlik meraklısı | Yeni başlayan ama açgözlü<br>💻 Kod + güvenlik tutkunu | Öğrenmeye aç<br>🔐 Cybersec newbie | Her gün bir şey öğreniyorum
 
 
 ## 🌐 Socials:
