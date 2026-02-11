@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛡️ Siber güvenlik meraklısı | Yeni başlayan ama açgözlü<br>💻 Kod + güvenlik tutkunu | Öğrenmeye aç<br>🔐 Cybersec newbie | Her gün bir şey öğreniyorum
+🛡️ Cybersecurity enthusiast | Beginner but hungry<br>💻 Code + security lover | Always eager to learn<br>🔐 Cybersec newbie | Learning something new every day<br>
 
 
 ## 🌐 Socials:
