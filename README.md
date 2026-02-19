@@ -1,5 +1,5 @@
-# 💫 About Me:
-🛡️ Cybersecurity enthusiast | Beginner but hungry<br>💻 Code + security lover | Always eager to learn<br>🔐 Cybersec newbie | Learning something new every day<br>
+# 💫 Hakkımda:
+💻 Kod yazmayı seven, yeni şeyler deneyen geliştirici ⚡<br>🛠️ Pratik ve işe yarar çözümler peşinde<br>❌ Hatalar yolun bir parçası<br>
 
 
 ## 🌐 Socials:
@@ -12,8 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MertSoylu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MertSoylu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MertSoylu&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MertSoylu&icon=2&color=12)](https://visitcount.itsvg.in)
