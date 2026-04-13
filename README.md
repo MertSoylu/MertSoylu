@@ -1,59 +1,64 @@
-# 👋 Hey there, I'm Mert Soylu
+<!-- Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=💻+Full-Stack+Developer;🚀+Building+Practical+Solutions;📚+Continuous+Learner;🎯+Code+Quality+Focused" />
+</p>
 
-<div align="center">
-
-**Passionate Software Developer | Full-Stack Enthusiast | Problem Solver**
-
-```
-💡 Building practical solutions • 🚀 Exploring new technologies 
-📈 Continuous learner • 🎯 Code quality focused
-```
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mert-soylu-b8b6a1341/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/s8ylumert">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:s6ylumert@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MertSoylu">
+    <img src="https://komarev.com/ghpvc/?username=MertSoylu&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
+  </a>
+</p>
 
 ---
 
 ## 🎯 About Me
 
-I'm a software developer dedicated to crafting **efficient, scalable, and user-centric solutions**. With a passion for both **frontend and backend technologies**, I thrive on tackling complex problems and turning them into elegant code.
+```yaml
+Name: Mert Soylu
+Role: Full-Stack Developer | Problem Solver
+Philosophy: "Mistakes are stepping stones to mastery"
+Focus: Efficient • Scalable • User-Centric Solutions
+Location: İzmir, Turkey
+```
 
-**My Philosophy:**
-- 🛠️ *"Mistakes are stepping stones to mastery"* - I embrace failure as a learning opportunity
-- ♻️ *Code is for humans first, machines second* - Readability and maintainability matter
-- 🌱 *Forever learning* - Technology evolves, and so do I
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 💻 **Full-Stack Developer** — Building practical and efficient solutions
+- 🚀 **Tech Enthusiast** — Passionate about exploring new technologies
+- 🛠️ **Problem Solver** — Turning complex problems into elegant code
+- 📈 **Continuous Learner** — Always improving my craft
+- 🌐 Open to: collaborations, open-source contributions, interesting projects
 
 ---
 
-## 📈 GitHub Analytics
+## ⚒️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,ts,react,kotlin,html,css,nodejs,git,github,vscode&theme=dark&perline=8" />
+</p>
+
+<details>
+<summary>📋 Detailed breakdown</summary>
+<br>
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, JavaScript, TypeScript, Kotlin |
+| **Frontend** | React, HTML5, CSS3, Responsive Design |
+| **Backend** | Node.js, Python (FastAPI/Django) |
+| **Mobile** | Kotlin, React Native |
+| **Tools & DevOps** | Git, GitHub, VS Code, Linux |
+
+</details>
 
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MertSoylu&theme=tokyonight&hide_border=true)](https://github.com/MertSoylu)
-
-
-</div>
-
----
 
 ## 🎯 What I'm Currently Working On
 
@@ -64,22 +69,36 @@ I'm a software developer dedicated to crafting **efficient, scalable, and user-c
 
 ---
 
-## 💬 Let's Connect
+## 📊 GitHub Activity
 
-I'm always open to collaborating on interesting projects, discussing tech, or just chatting about software development!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-soylu-b8b6a1341/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s8ylumert)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MertSoylu&theme=github-dark&hide_border=true&area=true&custom_title=GitHub%20Contributions" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MertSoylu&theme=github-light&hide_border=true&area=true&custom_title=GitHub%20Contributions" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MertSoylu&theme=github-dark&hide_border=true&area=true&custom_title=GitHub%20Contributions" width="100%" />
+  </picture>
+</p>
 
 ---
 
-<div align="center">
+## 💬 Let's Connect
 
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** ⭐
+I'm always open to collaborating on interesting projects, discussing technology, or just chatting about software development!
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mert-soylu-b8b6a1341/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/s8ylumert">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:s6ylumert@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:4f46e5&height=120&section=footer" />
+</p>
