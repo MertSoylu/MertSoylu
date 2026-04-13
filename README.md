@@ -47,14 +47,9 @@ I'm a software developer dedicated to crafting **efficient, scalable, and user-c
 
 <div align="center">
 
-### Overall Statistics
-![](https://github-readme-stats.vercel.app/api?username=MertSoylu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-### Contribution Streak
-![](https://nirzak-streak-stats.vercel.app/?user=MertSoylu&theme=dark&hide_border=false)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MertSoylu&theme=tokyonight&hide_border=true)](https://github.com/MertSoylu)
 
-### Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MertSoylu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
