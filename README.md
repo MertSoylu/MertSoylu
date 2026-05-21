@@ -1,8 +1,4 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=💻+Full-Stack+Developer;🚀+Building+Practical+Solutions;📚+Continuous+Learner;🎯+Code+Quality+Focused" />
-</p>
-
+# <!-- Header -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mert-soylu-b8b6a1341/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -27,7 +23,7 @@ Name: Mert Soylu
 Role: Full-Stack Developer | Problem Solver
 Philosophy: "Mistakes are stepping stones to mastery"
 Focus: Efficient • Scalable • User-Centric Solutions
-Location: İzmir, Turkey
+Location: İstanbul, Turkey
 ```
 
 - 💻 **Full-Stack Developer** — Building practical and efficient solutions
@@ -58,7 +54,7 @@ Location: İzmir, Turkey
 
 </details>
 
-
+---
 
 ## 🎯 What I'm Currently Working On
 
@@ -66,6 +62,24 @@ Location: İzmir, Turkey
 - 📚 Deepening knowledge in system design and architecture
 - 🤖 Exploring AI/ML integration opportunities
 - 🌍 Contributing to open-source projects
+
+---
+
+## 🤖 AI Agent Token Usage
+
+<p align="center">
+  <a href="https://tokscale.ai/u/MertSoylu">
+    <img src="https://tokscale.ai/api/embed/MertSoylu/svg?view=3d" alt="Tokscale Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://tokscale.ai/api/badge/MertSoylu/svg?metric=tokens&style=flat-square" alt="Total Tokens"/>
+  &nbsp;
+  <img src="https://tokscale.ai/api/badge/MertSoylu/svg?metric=cost&style=flat-square" alt="Total Cost"/>
+  &nbsp;
+  <img src="https://tokscale.ai/api/badge/MertSoylu/svg?metric=rank&style=flat-square" alt="Global Rank"/>
+</p>
 
 ---
 
