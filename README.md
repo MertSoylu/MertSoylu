@@ -23,7 +23,7 @@ Name: Mert Soylu
 Role: Full-Stack Developer | Problem Solver
 Philosophy: "Mistakes are stepping stones to mastery"
 Focus: Efficient • Scalable • User-Centric Solutions
-Location: İstanbul, Turkey
+Location: İzmir, Turkey
 ```
 
 - 💻 **Full-Stack Developer** — Building practical and efficient solutions
