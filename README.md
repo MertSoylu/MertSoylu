@@ -70,24 +70,6 @@ philosophy:
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MertSoylu&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertSoylu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="90%" src="https://streak-stats.demolab.com?user=MertSoylu&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
